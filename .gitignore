@@ -10,3 +10,24 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+.idea
+.iml
+venv/
+*.pyc
+*.log
+.DS_Store
+/build/
+/dist/
+
+*.conf
+*.config
+
+cache/
+
+conf/
+
+*.tar
+*.gz
+
+deploy/
